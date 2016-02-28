@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+z new .git file is created
+to start working with gits
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+its temporal, it offers an intermediate
