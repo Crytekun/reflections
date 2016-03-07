@@ -3,3 +3,5 @@ z new .git file is created
 to start working with gits
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 its temporal, it offers an intermediate
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+they become one
